@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ELFAOUKHARhoumam
-- 👀 I’m interested in DevOps and backend projects
-- 🌱 I’m currently learning REST API & JEE
-- 💞️ I’m looking to collaborate on develpement projects
+- 👀 I’m a DevOps/SRE engineer
+- 🌱 I’m a Certified Kubernetes Administrator (CKA)
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me houmamelfaoukhar@gmail.com
 
 <!---
